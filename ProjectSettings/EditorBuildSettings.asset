@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/LyceumVR/ARPortals_URP/Scenes/Demo.unity
+    guid: d2f640079f125b340acabceb8eafc91d
+  - enabled: 0
+    path: Assets/LyceumVR/ARPortals_URP/Scenes/AutoConfigurateProject.unity
+    guid: f300f1c3d21d4a84d99339bf61376380
+  - enabled: 0
+    path: Assets/LyceumVR/ARPortals_URP/Scenes/ARportalchemistry.unity
+    guid: 2f31835dc5f70af41bc3ac1fa36b27c6
+  - enabled: 1
+    path: Assets/LyceumVR/ARPortals_URP/Scenes/ARportalphysics.unity
+    guid: 7dbb8b819d4e11b4cba8af49a0750ad9
+  - enabled: 0
+    path: Assets/Export_Asset/Scenes/UJT_IV_Characteristics.unity
+    guid: 4db253c761e28d4478b16cce2a700f8c
+  - enabled: 0
+    path: Assets/Export_Asset/Scenes/PNjunctionGraph.unity
+    guid: 28f2485e527cc784e824789d7f396975
+  - enabled: 0
+    path: Assets/Export_Asset/Scenes/InputPanelScene1.unity
+    guid: 1745d99361852f64cb38fddc750cc3f0
+  - enabled: 0
+    path: Assets/LyceumVR/ARPortals_URP/Scenes/ARPORTALPHY.unity
+    guid: 352a6932c3789684e8a08198cff1be38
+  - enabled: 0
+    path: Assets/Export_Asset/Scenes/phyUJT.unity
+    guid: dfde89bf8fe497e4e9355d9bc3228533
+  - enabled: 0
+    path: Assets/Export_Asset/Scenes/PhysicsExp 2.unity
+    guid: 877447cc9ce4b7940a5c15080af6892d
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: d9c77aecb987df1408af937d6c8120e0, type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 2305f7c38c6a38647a252019e6dc5f40, type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 1de07426d7c2f8b45a5e0783302df4fd, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 848c47ffb49214cf3abeb57096957e74, type: 2}
+    xr.sdk.mock-hmd.settings: {fileID: 11400000, guid: 8bd15c29c0a92bc4ebf2ba3cf133c6ca, type: 2}

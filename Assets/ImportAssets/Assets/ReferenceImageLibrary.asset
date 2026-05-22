@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5004938757502796616
+  m_GuidHigh: 17132791813287217579
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5744025977984809845
+      m_GuidHigh: 4752041482355129998
+    m_SerializedTextureGuid:
+      m_GuidLow: 3270991166004137776
+      m_GuidHigh: 6492847076162173034
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: O_Bg
+    m_Texture: {fileID: 2800000, guid: 911e0f30e5222d646a7894e3033a1b5a, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5361372611381079421
+      m_GuidHigh: 9695674164149519800
+    m_SerializedTextureGuid:
+      m_GuidLow: 11724177535656310283
+      m_GuidHigh: 5634595260086315370
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: H2_Bg
+    m_Texture: {fileID: 2800000, guid: f068b60ba559a2b46a698b22891a324e, type: 3}

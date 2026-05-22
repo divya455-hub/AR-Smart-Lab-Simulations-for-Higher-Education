@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 37d2463c0d4f66049b4c16a7c65c1fd1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - m_TrackedImageManager: {instanceID: 0}
+  - modelForCa: {instanceID: 0}
+  - modelForO: {instanceID: 0}
+  - modelForCaO: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
