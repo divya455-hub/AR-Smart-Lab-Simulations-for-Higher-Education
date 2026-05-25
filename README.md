@@ -6,6 +6,9 @@ An immersive Augmented Reality (AR) application built with Unity and AR Foundati
 
 ## 📺 Project Demo & Visuals
 * 🔗 **[Click Here to Watch the Full Demo Video](https://drive.google.com/file/d/1YW0b1w5m-KRvxUY__VCEwv4auEHlycrl/view?usp=sharing)**
+<img width="848" height="627" alt="Screenshot 2026-02-24 102623" src="https://github.com/user-attachments/assets/2f08931b-4477-4da8-9589-687727b6ab2f" /><img width="1610" height="771" alt="Screenshot 2026-02-22 214729" src="https://github.com/user-attachments/assets/432a8341-0277-48f7-821b-90a535adef84" />
+<img width="737" height="436" alt="Screenshot 2026-02-24 105037" src="https://github.com/user-attachments/assets/3a547202-3ff2-40ee-b360-81304baabdfa" />
+
 
 
 
